@@ -193,13 +193,13 @@ def recursive_solver(board, depth=0):
     next_y, next_x = next_zero(board)
 
     for i in range(1, 10):
-        # placer.append((next_y, next_x, i))
+        placer.append((next_y, next_x, i))
 
         # time.sleep(0.1)
         if is_possible(board, next_y, next_x, i):
             # new_board = copier(board)
             board[next_y][next_x] = i
-            placer.append((next_y, next_x, i))
+            # placer.append((next_y, next_x, i))
             # clear()
             # new_printer(board)
 
