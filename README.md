@@ -3,7 +3,7 @@
 - Run ```git clone https://github.com/birinders/SudokuVisualizer.git``` OR<br>
 - Download the Source code from the "Releases" section.
 ----------------------------
-This is a Sudoku Visualizer implemented inside python. It uses the terminal to visualize how backtracking works for such a seemingly complex problem.
+This is a Sudoku Visualizer implemented in python. It uses the terminal to visualize how backtracking works for such a seemingly complex problem.
 
 The board shows how each and every state gets tested, and how the program backtracks upon finding a invalid state.
 This works as a great learning tool, and a visual aid for people who may still be learning their data structures and algorithms, and may find it hard to conceptualize how backtracking actually works, or what does it exactly do inside the program.
