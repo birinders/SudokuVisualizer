@@ -17,7 +17,7 @@ This gives us ```9*9*9*9.....77 more times == 9^81``` possible valid board state
 This number evaluates to ```196627050475552913618075908526912116283103450944214766927315415537966391196809``` possible board states, which is clearly beyond the means of what my computer can possibly compute within my lifespan. (Maybe yours would be able to do it, but I have my doubts)
 
 ### Exercise to the reader!
-Try and implment a function called ```is_board_valid(board)``` which can detect if a board is invalid even before the backtracking search begins. If the board is invalid, just print "Invalid Board" and exit the program.
+Try and implment a function called ```is_board_valid(board)``` which can detect if a board is invalid even before the backtracking search begins. If the board is invalid, just print ```"Invalid Board"``` and exit the program.
 <br><br>Do this, and publish a pull request for your changes. Maybe I'll merge your solution with this project!
 <br><br>
 ## Watch it run!
