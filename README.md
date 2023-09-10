@@ -19,7 +19,7 @@ This number evaluates to ```1966270504755529136180759085269121162831034509442147
 ### Exercise to the reader!
 Try and implment a function called ```is_board_valid(board)``` which can detect if a board is invalid even before the backtracking search begins. If the board is invalid, just print ```"Invalid Board"``` and exit the program.
 <br><br>Do this, and publish a pull request for your changes. Maybe I'll merge your solution with this project!
-<br><br>You can check out my other visualizers [here](https://birinders.github.io).
+<br><br>You can check out my other visualizers [here](https://github.com/birinders/all-projects).
 <br>
 ## Watch it run!
 <p align="center">
